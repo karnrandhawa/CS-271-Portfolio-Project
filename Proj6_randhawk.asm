@@ -2,7 +2,7 @@ TITLE Designing Low-Level I/O Procedures     (Proj6_randhawk.asm)
 
 ; Author: Karnbir Randhawa
 ; Last Modified: 03/12/2023
-; OSU email address: randhawk@oregonstate.edu
+; OSU email address: ONID@oregonstate.edu
 ; Course number/section:   CS271 Section 400
 ; Project Number:  6               Due Date: 03/19/2023
 ; Description: This program designs, implements, and calls low-level I/O procedures, and implements and uses macros
